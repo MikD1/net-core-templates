@@ -1,2 +1,2 @@
-# net-core-templates
+# net core templates
 Custom templates for dotnet new
