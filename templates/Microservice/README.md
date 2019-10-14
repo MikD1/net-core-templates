@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-dotnet new microservice
+dotnet new microserviceapi
 ```
 
 ## Features

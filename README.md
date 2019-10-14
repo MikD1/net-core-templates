@@ -2,4 +2,12 @@
 
 Custom templates for dotnet new
 
-* [Microservice](Microservice/README.md)
+## Install
+
+```
+dotnet new -i <path>
+```
+
+# Templates
+
+* [Microservice](templates/Microservice/README.md)
