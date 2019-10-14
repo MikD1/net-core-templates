@@ -5,7 +5,7 @@ Custom templates for dotnet new
 ## Install
 
 ```
-dotnet new -i <path>
+dotnet new --install mikd1.net.core.templates::1.0.0
 ```
 
 # Templates
