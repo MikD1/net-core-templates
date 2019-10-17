@@ -4,7 +4,7 @@
     "Microservice.WebApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "about",
+      "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5002",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
