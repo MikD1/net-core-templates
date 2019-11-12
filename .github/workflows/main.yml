@@ -14,4 +14,4 @@ jobs:
         dotnet-version: 3.0.100
     
     - name: Build
-      run: dotnet build --configuration Release ./templates/Microservice/Microservice.WebApi.csproj
+      run: dotnet build --configuration Release ./templates/Microservice/Microservice.WebApi/Microservice.WebApi.csproj
