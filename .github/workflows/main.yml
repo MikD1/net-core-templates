@@ -13,6 +13,8 @@ jobs:
       with:
         dotnet-version: 3.0.100
     
-    - name: Build
+    - name: Build Microservice Template
       run: dotnet build --configuration Release ./templates/Microservice/Microservice.WebApi/Microservice.WebApi.csproj
+      
+    - name: Build Api Gateway Template
       run: dotnet build --configuration Release ./templates/ApiGateway/ApiGateway.WebApi/ApiGateway.WebApi.csproj
