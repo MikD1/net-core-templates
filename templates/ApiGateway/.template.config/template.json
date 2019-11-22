@@ -1,0 +1,19 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Mikhail Doshevsky",
+    "classifications": [
+        "Microservice",
+        "WebApi",
+        "Api Gateway"
+    ],
+    "name": "ASP.NET Core Api Gateway",
+    "identity": "microservice.apigateway",
+    "groupIdentity": "microservices",
+    "shortName": "apigateway",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "ApiGateway",
+    "preferNameDirectory": true
+}

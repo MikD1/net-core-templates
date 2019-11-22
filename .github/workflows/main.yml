@@ -15,3 +15,4 @@ jobs:
     
     - name: Build
       run: dotnet build --configuration Release ./templates/Microservice/Microservice.WebApi/Microservice.WebApi.csproj
+      run: dotnet build --configuration Release ./templates/ApiGateway/ApiGateway.WebApi/ApiGateway.WebApi.csproj
