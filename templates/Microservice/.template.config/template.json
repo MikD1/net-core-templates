@@ -7,7 +7,7 @@
     ],
     "name": "ASP.NET Core Microservice Web API",
     "identity": "microservice.webapi",
-    "groupIdentity": "microservices",
+    "groupIdentity": "microservice.webapi",
     "shortName": "microserviceapi",
     "tags": {
         "language": "C#",

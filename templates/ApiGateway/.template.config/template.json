@@ -8,7 +8,7 @@
     ],
     "name": "ASP.NET Core Api Gateway",
     "identity": "microservice.apigateway",
-    "groupIdentity": "microservices",
+    "groupIdentity": "microservice.apigateway",
     "shortName": "apigateway",
     "tags": {
         "language": "C#",
