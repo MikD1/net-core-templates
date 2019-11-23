@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.1</PackageVersion>
+    <PackageVersion>1.1.1</PackageVersion>
     <PackageId>mikd1.net.core.templates</PackageId>
     <Title>Net Core microservices templates</Title>
     <Authors>Mikhail Doshevsky</Authors>
